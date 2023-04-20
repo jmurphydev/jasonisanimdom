@@ -1,0 +1,95 @@
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ghost is running in development...","time":"2023-04-20T15:44:59.777Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Listening on: 127.0.0.1:2368","time":"2023-04-20T15:44:59.777Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Url configured as: http://localhost:2368/","time":"2023-04-20T15:44:59.778Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ctrl+C to shut down","time":"2023-04-20T15:44:59.778Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ghost server started in 0.368s","time":"2023-04-20T15:44:59.779Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":40,"version":"5.44.0","msg":"Database state requires initialisation.","time":"2023-04-20T15:44:59.943Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: newsletters","time":"2023-04-20T15:45:00.085Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: posts","time":"2023-04-20T15:45:00.089Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: posts_meta","time":"2023-04-20T15:45:00.091Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: users","time":"2023-04-20T15:45:00.093Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: posts_authors","time":"2023-04-20T15:45:00.097Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: roles","time":"2023-04-20T15:45:00.098Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: roles_users","time":"2023-04-20T15:45:00.100Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: permissions","time":"2023-04-20T15:45:00.101Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: permissions_users","time":"2023-04-20T15:45:00.103Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: permissions_roles","time":"2023-04-20T15:45:00.104Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: settings","time":"2023-04-20T15:45:00.104Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: tags","time":"2023-04-20T15:45:00.106Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: posts_tags","time":"2023-04-20T15:45:00.108Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: invites","time":"2023-04-20T15:45:00.109Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: brute","time":"2023-04-20T15:45:00.111Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: sessions","time":"2023-04-20T15:45:00.113Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: integrations","time":"2023-04-20T15:45:00.114Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: webhooks","time":"2023-04-20T15:45:00.115Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: api_keys","time":"2023-04-20T15:45:00.116Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: mobiledoc_revisions","time":"2023-04-20T15:45:00.118Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: post_revisions","time":"2023-04-20T15:45:00.119Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members","time":"2023-04-20T15:45:00.120Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: products","time":"2023-04-20T15:45:00.123Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: offers","time":"2023-04-20T15:45:00.124Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: benefits","time":"2023-04-20T15:45:00.127Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: products_benefits","time":"2023-04-20T15:45:00.130Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_products","time":"2023-04-20T15:45:00.131Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: posts_products","time":"2023-04-20T15:45:00.132Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_created_events","time":"2023-04-20T15:45:00.133Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_cancel_events","time":"2023-04-20T15:45:00.134Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_payment_events","time":"2023-04-20T15:45:00.134Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_login_events","time":"2023-04-20T15:45:00.136Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_email_change_events","time":"2023-04-20T15:45:00.137Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_status_events","time":"2023-04-20T15:45:00.138Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_product_events","time":"2023-04-20T15:45:00.139Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_paid_subscription_events","time":"2023-04-20T15:45:00.140Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: labels","time":"2023-04-20T15:45:00.141Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_labels","time":"2023-04-20T15:45:00.143Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_stripe_customers","time":"2023-04-20T15:45:00.145Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: subscriptions","time":"2023-04-20T15:45:00.146Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_stripe_customers_subscriptions","time":"2023-04-20T15:45:00.147Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_subscription_created_events","time":"2023-04-20T15:45:00.149Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: offer_redemptions","time":"2023-04-20T15:45:00.150Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_subscribe_events","time":"2023-04-20T15:45:00.151Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: stripe_products","time":"2023-04-20T15:45:00.152Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: stripe_prices","time":"2023-04-20T15:45:00.153Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: actions","time":"2023-04-20T15:45:00.155Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: emails","time":"2023-04-20T15:45:00.156Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: email_batches","time":"2023-04-20T15:45:00.158Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: email_recipients","time":"2023-04-20T15:45:00.159Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: email_recipient_failures","time":"2023-04-20T15:45:00.163Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: tokens","time":"2023-04-20T15:45:00.165Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: snippets","time":"2023-04-20T15:45:00.166Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: custom_theme_settings","time":"2023-04-20T15:45:00.168Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_newsletters","time":"2023-04-20T15:45:00.169Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: comments","time":"2023-04-20T15:45:00.170Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: comment_likes","time":"2023-04-20T15:45:00.171Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: comment_reports","time":"2023-04-20T15:45:00.172Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: jobs","time":"2023-04-20T15:45:00.173Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: redirects","time":"2023-04-20T15:45:00.175Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_click_events","time":"2023-04-20T15:45:00.176Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: members_feedback","time":"2023-04-20T15:45:00.177Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: suppressions","time":"2023-04-20T15:45:00.178Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: email_spam_complaint_events","time":"2023-04-20T15:45:00.179Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: mentions","time":"2023-04-20T15:45:00.181Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Creating table: milestones","time":"2023-04-20T15:45:00.182Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Product","time":"2023-04-20T15:45:00.459Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Newsletter","time":"2023-04-20T15:45:00.464Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Tag","time":"2023-04-20T15:45:00.466Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Permission","time":"2023-04-20T15:45:00.468Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Post","time":"2023-04-20T15:45:00.633Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Model: Integration","time":"2023-04-20T15:45:00.905Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Relation: Role to Permission","time":"2023-04-20T15:45:00.929Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Relation: Post to Tag","time":"2023-04-20T15:45:01.047Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Database is in a ready state.","time":"2023-04-20T15:45:01.083Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ghost database ready in 1.673s","time":"2023-04-20T15:45:01.083Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Adding offloaded job to the queue","time":"2023-04-20T15:45:01.925Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Scheduling job mentions-email-report at 13 5 * * * *. Next run on: Thu Apr 20 2023 17:05:13 GMT+0100 (British Summer Time)","time":"2023-04-20T15:45:01.932Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Adding one-off job to queue with current length = 0 called 'members-migrations'","time":"2023-04-20T15:45:02.061Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Stripe not configured - skipping migrations","time":"2023-04-20T15:45:02.063Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ghost URL Service Ready in 2.933s","time":"2023-04-20T15:45:02.343Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Adding offloaded job to the queue","time":"2023-04-20T15:45:02.558Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Scheduling job clean-expired-comped at 49 37 0 * * *. Next run on: Fri Apr 21 2023 00:37:49 GMT+0100 (British Summer Time)","time":"2023-04-20T15:45:02.573Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Adding offloaded job to the queue","time":"2023-04-20T15:45:02.581Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Scheduling job clean-tokens at 37 18 6 * * *. Next run on: Fri Apr 21 2023 06:18:37 GMT+0100 (British Summer Time)","time":"2023-04-20T15:45:02.585Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Ghost booted in 3.184s","time":"2023-04-20T15:45:02.594Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Adding offloaded job to the queue","time":"2023-04-20T15:45:02.595Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Scheduling job update-check at 29 17 14 * * *. Next run on: Fri Apr 21 2023 14:17:29 GMT+0100 (British Summer Time)","time":"2023-04-20T15:45:02.598Z","v":0}
+{"name":"Log","hostname":"MC-N384021","pid":53124,"level":30,"version":"5.44.0","msg":"Running milestone emails job on Thu Apr 20 2023 16:45:07 GMT+0100 (British Summer Time)","time":"2023-04-20T15:45:02.610Z","v":0}
