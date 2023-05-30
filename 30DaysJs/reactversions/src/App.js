@@ -1,5 +1,6 @@
 import styled from "@emotion/styled";
 import { useRef } from "react";
+import React from "react";
 
 const CssClock = () => {
   const StyledHtml = styled.div`
@@ -95,7 +96,7 @@ const CssClock = () => {
   );
 };
 
-const Drum = () => {
+export const Drum = () => {
   const StyledKeyContainer = styled.div`
     display: flex;
     flex: 1;

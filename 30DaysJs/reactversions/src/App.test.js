@@ -1,8 +1,16 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render } from "@testing-library/react";
+import Drum from "./App";
+import React from 'react';
+import { JSDOM } from 'jsdom';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+const dom = new JSDOM('<!DOCTYPE html>');
+global.document = dom.window.document;
+global.window = dom.window;
+
+describe("Drum component", () => {
+  it("renders all functional keys", () => {
+    render(<Drum />);
+
+    expect(document.querySelector(".key-container").children.length).toBe(8);
+  });
 });
